@@ -15,7 +15,7 @@ If you haven't already got a GitHub repo for this project:
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/LIN4CRE/ev-backend.git
+git remote add origin https://github.com/DLinacre/ev-backend.git
 git push -u origin main
 ```
 
